@@ -1,0 +1,48 @@
+.body{
+    background-color: bisque;
+
+}
+
+
+.div0{
+     
+     background-color: rgb(197, 178, 113);
+     background-attachment: fixed;
+ 
+   
+     
+ 
+}
+
+.div0 p{
+
+}
+
+
+.div1{
+    background-color: rgb(92, 117, 184);
+    margin-right: 75%;
+    border-radius: 30px;
+    text-align: center;
+   
+
+}
+
+
+.div2{
+    background-color: rgb(92, 117, 184);
+    margin-right: 75%;
+    border-radius: 30px;
+    text-align: center;
+   
+    
+}
+.div3{
+    background-color:rgb(197, 178, 113) ;
+    padding-top: 30px;
+    text-align: center;
+}
+img{
+    border-radius: 60%;
+}
+
